@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NorthwindFramework.Core/1.0.0": {
+        "dependencies": {
+          "NorthwindFramework.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthwindFramework.Core.dll": {}
+        }
+      },
+      "NorthwindFramework.Entities/1.0.0": {
+        "runtime": {
+          "NorthwindFramework.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthwindFramework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthwindFramework.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

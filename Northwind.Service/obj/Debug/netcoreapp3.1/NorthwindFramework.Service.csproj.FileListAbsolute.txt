@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Service.deps.json
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Service.dll
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Service.pdb
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Core.dll
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.DataAccess.dll
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Entities.dll
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Core.pdb
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.DataAccess.pdb
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\bin\Debug\netcoreapp3.1\NorthwindFramework.Entities.pdb
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.csproj.CopyComplete
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.dll
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.pdb
+C:\Users\ahmet\source\repos\Northwind.API\Northwind.Service\obj\Debug\netcoreapp3.1\NorthwindFramework.Service.csproj.CoreCompileInputs.cache
